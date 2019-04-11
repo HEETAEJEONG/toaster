@@ -18,6 +18,7 @@
     씨 이게 뭐냐 이씨~ 근데 요즘 임베디드가 말이지 (긁적)
   지표면~~
   면소오오오오스
+  스케줄
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
