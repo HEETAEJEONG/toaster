@@ -13,6 +13,7 @@
 	스피드	
 	드럼통
 	통기타
+    타아이씨 (긁적) 키코모리 어떻게하는거야 ㅜ(끍적
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
