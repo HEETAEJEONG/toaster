@@ -6,8 +6,7 @@
 </head>
 <body>
 <h1>
-	야잇 상품권 언제주냐???
-	골든벨? 갑니까?
+	벨트
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
