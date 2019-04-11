@@ -14,6 +14,7 @@
 	드럼통
 	통기타
     타아이씨 (긁적) 키코모리 어떻게하는거야 ㅜ(끍적
+    야이씨 이거 왜 이렇게 어렵냐 이씨~
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
