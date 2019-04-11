@@ -7,6 +7,7 @@
 <body>
 <h1>
 	벨트
+	트로이
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
