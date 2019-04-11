@@ -6,7 +6,8 @@
 </head>
 <body>
 <h1>
-	야잇 이거 왜 이러냐~~(혼잣말.....)
+	hs 曰 : 야잇 이거 왜 이러냐~~(혼잣말.....)
+	영재 曰 : 몰라요 형
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
