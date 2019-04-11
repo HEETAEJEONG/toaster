@@ -6,12 +6,9 @@
 </head>
 <body>
 <h1>
-	벨트
-<<<<<<< HEAD
-	트라이앵글
-=======
+	벨트	
 	트로이
->>>>>>> branch 'master' of https://github.com/HEETAEJEONG/toaster.git
+	이발소	
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
